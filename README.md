@@ -37,3 +37,7 @@ Build executable with PyInstaller:
 ```sh
 python -m PyInstaller --onefile --noconsole main.py
 ```
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/c4f11ec0-439f-4bd8-81cc-800c906fc443)
