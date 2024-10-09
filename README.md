@@ -13,7 +13,7 @@ I have not tested on any OS except for Windows.
 
 - Enable OBS WebSocket:
 
-<image
+![image](https://github.com/user-attachments/assets/8e3435a2-200a-4ec6-b006-bcead782d437)
 
 - And connect to the remote OBS using the login details.
 
@@ -25,7 +25,7 @@ Requirements: `git`, `python3`,  `pip`, `PyInstaller`
 
 Clone the repository: 
 ```sh
-git clone 
+git clone https://github.com/dng-nguyn/obs-ws-client.git
 ```
 
 Install libraries: 
