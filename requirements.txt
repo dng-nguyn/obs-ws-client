@@ -1,0 +1,3 @@
+customtkinter
+obs-websocket-py
+keyboard
