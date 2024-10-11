@@ -1,5 +1,5 @@
 
-# OBS WebSocket Client
+# OBS WebSocket GUI Client
 
 This is a GUI client using OBS WebSocket. Used for controlling OBS remotely (e.g for using with capture cards on another computer).
 
